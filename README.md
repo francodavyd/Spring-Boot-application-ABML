@@ -8,10 +8,7 @@ en la base de datos.
 # Tecnologias utilizadas:
 * Java 17
 * Spring Boot 3.2.0
-* Spring Boot Data JPA
-* Spring Web
-* Lombok
-* Base de datos My SQL
+* Base de datos MySQL
 * Swagger
 
 # Instalación
